@@ -1,0 +1,17 @@
+Company,Job,Degree,100k-salary
+google,sales-excutive,bachelors,0
+google,sales-excutive,master,0
+google,buisness manager,bachelors,1
+google,buisness manager,master,1
+google,computer programmer,bachelors,0
+google,computer programmer,master,1
+Microsoft,sales-excutive,master,0
+Microsoft,computer programmer,bachelors,0
+Microsoft,buisness manager,bachelors,0
+Microsoft,buisness manager,master,1
+Faceboook,sales-excutive,bachelors,1
+Faceboook,sales-excutive,master,1
+Faceboook,buisness manager,bachelors,1
+Faceboook,buisness manager,master,1
+Faceboook,computer programmer,bachelors,1
+Faceboook,computer programmer,master,1
